@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BennettLovejoy
-- 👀 I’m interested in education policy analysis
-- 🌱 I’m currently learning SQL database queries 
+- 👀 I’m interested in using data science for public policy analysis
+- 🌱 I’m currently learning how to publish my data science portfolio and apps using Django  
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My name, Bennett, means well-spoken! 
 
 <!---
 BennettLovejoy/BennettLovejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
